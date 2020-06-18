@@ -1,0 +1,9 @@
+[package]
+name = "trace-foo"
+version = "0.1.0"
+authors = ["Peter Allin <peter@peca.dk>"]
+edition = "2018"
+
+[dependencies]
+tracing = "0.1"
+tracing-subscriber = "0.2"
